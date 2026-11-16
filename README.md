@@ -1,2 +1,5 @@
-# gs2026.2-pai
-GS2026.2 Prompt &amp; AI 1CCPK
+# GS2026.2 - Prompt & AI
+1CCPK
+
+#Membros:
+Anna Rorato - RM: 569604
